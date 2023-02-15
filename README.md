@@ -3,7 +3,7 @@
 ![js-banner](https://user-images.githubusercontent.com/14003326/219082261-93f07dfe-1260-400a-8eff-b22c015a6cdc.jpeg)
 *A mostly reasonable approach to JavaScript*
 
-We use the following style guide when writing code for the `hdg` organization. Follow it if you like in your code. You can find header templates in here too. This guide was super long so we decided to break it into sections (ie Chapters) to make it easier to reference. It is also available as a downloadable one page [html file](downloads/FULL.html), as a [png](downloads/FULL.png) and as a [PDF](downloads/FULL.pdf)
+We use the following style guide when writing code for the `hdg` organization. Follow it if you like in your code. You can find header templates in here too. This guide was super long so we decided to break it into sections (ie Chapters) to make it easier to reference. It is also available as a downloadable one page [html file](downloads/FULL.html), as a [png](downloads/FULL.png) and as a [PDF](downloads/FULL.pdf). You can find a version that is easier to read over on our website https://hasidic.dev/docs/style
 
 ## Table of Contents
 
